@@ -13,7 +13,8 @@ S'empra per descriure, de manera sintètica, les diferents sinergies que s'estab
 
 # Hibridació en l'educació
 
-![energia renovable](https://www.e4e-soluciones.com/wp-content/uploads/2020/10/energia-renovable-hibrida.jpg)
+![educació](https://otrasvoceseneducacion.org/wp-content/uploads/2020/07/educacion-hibrida-e1554780592968-750x410.jpg)
+
 No tots els graus formatius són iguals i, per tant, estan en condicions de desenvolupar-se tecnològicament de la mateixa manera que altres. L'ensenyament presencial continuarà desenvolupant-se almenys fins a quart de l'ESO, però, a partir de primer i segon de batxillerat, i sobretot en cursos universitaris, el model híbrid ha vingut per quedar-s'hi. Sí que és veritat que pel que fa a l'ús de les noves tecnologies a les aules, fins a quart de l'ESO, la incorporació d'aquelles tecnologies durant la pandèmia, així com l'ús d'eines, han vingut per ser usades encara que el model segueixi sent presencial.
 
 El que sí que ens ha ensenyat aquesta pandèmia és que comptem amb els recursos tecnològics necessaris per atendre l'alumne tant presencial com de manera remota, i això permetrà que alumnes amb dificultats per assistir al centre educatiu per circumstàncies alienes a la seva voluntat, com per exemple malalties, limitacions geogràfiques o professionals, puguin continuar mantenint la connexió amb el dia a dia de les matèries i la relació amb els companys.
@@ -34,6 +35,8 @@ El repte no només era posar algunes activitats en línia, sinó també dissenya
 **Acompanyar els professors i els estudiants**: L'ensenyament híbrid implica l'ús de noves eines. També implica l'aplicació de noves pràctiques per als professors, l'acompanyament és necessari per assegurar la transició i maximitzar els beneficis de l'aprenentatge a distància.
 
 # Hibridació de energies renovables
+
+![energia renovable](https://www.e4e-soluciones.com/wp-content/uploads/2020/10/energia-renovable-hibrida.jpg)
 
 Les energies renovables, claus en la transició energètica com a eina bàsica per a la lluita contra el canvi climàtic, encara no han desenvolupat tot el seu veritable potencial. Fins ara, les instal·lacions es troben disseminades per tota la geografia, quan disposem d'un recurs abundant per tenir més producció i generar rendibilitat.
 

@@ -51,3 +51,5 @@ Hi ha nombroses combinacions tecnològiques: eòlica amb fotovoltaica, hidràuli
 Però una de les més beneficioses és la que suma eòlica i fotovoltaica, per la seva complementarietat al perfil horari i mensual de generació. En general, l'eòlica produeix més durant el crepuscle, disminuint en les hores centrals del dia, i la fotovoltaica des de l'alba fins al vespre. Quan una disminueix, l'altra tendeix a augmentar i viceversa. Tanmateix, quan coincideixen, augmenta el nivell de pèrdues de la instal·lació en conjunt, cosa que es pot millorar amb estudis de previsió, l'efecte ombra dels aerogeneradors i l'emplaçament, entre altres qüestions.
 
 Sens dubte estem fent els primers passos en un nou model, cosa que comportarà la necessitat d'incloure alternatives en els mecanismes habituals de finançament, que permetin satisfer tant els interessos innovadors dels promotors com cobrir els riscos de les entitats finançadores.
+
+## Referencies i Bibliografía

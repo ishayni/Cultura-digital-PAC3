@@ -13,6 +13,7 @@ S'empra per descriure, de manera sintètica, les diferents sinergies que s'estab
 
 # Hibridació en l'educació
 
+![energia renovable](https://www.e4e-soluciones.com/wp-content/uploads/2020/10/energia-renovable-hibrida.jpg)
 No tots els graus formatius són iguals i, per tant, estan en condicions de desenvolupar-se tecnològicament de la mateixa manera que altres. L'ensenyament presencial continuarà desenvolupant-se almenys fins a quart de l'ESO, però, a partir de primer i segon de batxillerat, i sobretot en cursos universitaris, el model híbrid ha vingut per quedar-s'hi. Sí que és veritat que pel que fa a l'ús de les noves tecnologies a les aules, fins a quart de l'ESO, la incorporació d'aquelles tecnologies durant la pandèmia, així com l'ús d'eines, han vingut per ser usades encara que el model segueixi sent presencial.
 
 El que sí que ens ha ensenyat aquesta pandèmia és que comptem amb els recursos tecnològics necessaris per atendre l'alumne tant presencial com de manera remota, i això permetrà que alumnes amb dificultats per assistir al centre educatiu per circumstàncies alienes a la seva voluntat, com per exemple malalties, limitacions geogràfiques o professionals, puguin continuar mantenint la connexió amb el dia a dia de les matèries i la relació amb els companys.
@@ -24,13 +25,13 @@ El primer pas ha de consistir a la transformació tecnològica dels mateixos cen
 Una de les primeres característiques de l'ensenyament híbrid és, doncs, la seva flexibilitat. Ofereix una accessibilitat més gran en reduir les limitacions d'espai i temps. Facilita també una millor gestió per als estudiants amb els estudis, la feina o amb la vida personal.
 El repte no només era posar algunes activitats en línia, sinó també dissenyar noves eines i pràctiques pedagògiques, en particular tenint en compte els elements següents:
 
-Col·locar l'estudiant al centre de l'ensenyament : La hibridació de l'ensenyament planteja la qüestió de la motivació i autonomia dels alumnes i estudiants. Aquesta preocupació és particularment important si les persones properes als estudiants estan poc disponibles per donar-los suport. De fet, els estudiants estan acostumats a ser supervisats, guiats i subjectes a horaris estrictes.
+**Col·locar l'estudiant al centre de l'ensenyament** : La hibridació de l'ensenyament planteja la qüestió de la motivació i autonomia dels alumnes i estudiants. Aquesta preocupació és particularment important si les persones properes als estudiants estan poc disponibles per donar-los suport. De fet, els estudiants estan acostumats a ser supervisats, guiats i subjectes a horaris estrictes.
 
-Proposar un aprenentatge actiu i orientat als resultats: Donat que l'ensenyament està centrat en l'estudiant, la seva versió híbrida ofereix diferents modalitats i activitats. Això incita els estudiants a convertir-se en actors dels seus aprenentatges en comptes dels espectadors.
+**Proposar un aprenentatge actiu i orientat als resultats**: Donat que l'ensenyament està centrat en l'estudiant, la seva versió híbrida ofereix diferents modalitats i activitats. Això incita els estudiants a convertir-se en actors dels seus aprenentatges en comptes dels espectadors.
 
-Millor gestió de la càrrega de treball i del temps: si l'equilibri entre l'ensenyament presencial ia distància és, en el context actual, més difícil, la clau de la hibridació és, però, aconseguir combinar-les totes dues perquè no es produeixi una sobrecàrrega de feina.
+**Millor gestió de la càrrega de treball i del temps**: si l'equilibri entre l'ensenyament presencial ia distància és, en el context actual, més difícil, la clau de la hibridació és, però, aconseguir combinar-les totes dues perquè no es produeixi una sobrecàrrega de feina.
 
-Acompanyar els professors i els estudiants: L'ensenyament híbrid implica l'ús de noves eines. També implica l'aplicació de noves pràctiques per als professors, l'acompanyament és necessari per assegurar la transició i maximitzar els beneficis de l'aprenentatge a distància.
+**Acompanyar els professors i els estudiants**: L'ensenyament híbrid implica l'ús de noves eines. També implica l'aplicació de noves pràctiques per als professors, l'acompanyament és necessari per assegurar la transició i maximitzar els beneficis de l'aprenentatge a distància.
 
 # Hibridació de energies renovables
 

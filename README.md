@@ -53,3 +53,15 @@ Però una de les més beneficioses és la que suma eòlica i fotovoltaica, per l
 Sens dubte estem fent els primers passos en un nou model, cosa que comportarà la necessitat d'incloure alternatives en els mecanismes habituals de finançament, que permetin satisfer tant els interessos innovadors dels promotors com cobrir els riscos de les entitats finançadores.
 
 ## Referencies i Bibliografía
+
+Hibridació en l'educació
+
+compilatio (2020). La enseñanza híbrida: ¿Cuáles son los desafíos para los profesores y los estudiantes?. [en línea]. https://www.compilatio.net/es/noticias/ensenanza-hibrida [fecha de consulta: 4 de diciembre de 2021].
+RAMÍREZ, Alberto (2021). Hibridación de la educación superior. [en línea]. https://otrasvoceseneducacion.org/archivos/tag/hibridacion-de-la-educacion-superior [fecha de consulta: 4 de diciembre de 2021].
+
+Hibridació de energies renovables
+
+MOSQUERA, Pepa (2021). Hibridar renovables, una muy buena opción para el sistema eléctrico. [en línea]. https://www.energias-renovables.com/panorama/eidf-resulta-adjudicataria-de-las-instalaciones-solares-20210416-1 [fecha de consulta: 9 de diciembre de 2021].
+MORALES, Ismael (2021). La hibridación tecnológica abre nuevas posibilidades para las renovables. [en línea]. https://www.elconfidencial.com/medioambiente/energia/2021-10-30/hibridacion-tecnologica-renovables-clima_3315601/ [fecha de consulta: 9 de diciembre de 2021].
+DE CARLOS BERTRÁN, José Manuel (2021). Energías renovables: la hibridación y su financiación. [en línea]. https://cincodias.elpais.com/cincodias/2021/07/26/legal/1627306412_343249.html [fecha de consulta: 9 de diciembre de 2021].
+e4e-soluciones (2021). La energía renovable híbrida y su relación con la energía solar fotovoltaica. [en línea]. https://www.e4e-soluciones.com/blog-eficiencia-energetica/que-es-energia-renovable-hibrida [fecha de consulta: 9 de diciembre de 2021].

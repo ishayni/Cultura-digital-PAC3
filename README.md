@@ -54,13 +54,13 @@ Sens dubte estem fent els primers passos en un nou model, cosa que comportarà l
 
 ## Referencies i Bibliografía
 
-Hibridació en l'educació
+**Hibridació en l'educació**
 
 compilatio (2020). La enseñanza híbrida: ¿Cuáles son los desafíos para los profesores y los estudiantes?. [en línea]. https://www.compilatio.net/es/noticias/ensenanza-hibrida [fecha de consulta: 4 de diciembre de 2021].
 
 RAMÍREZ, Alberto (2021). Hibridación de la educación superior. [en línea]. https://otrasvoceseneducacion.org/archivos/tag/hibridacion-de-la-educacion-superior [fecha de consulta: 4 de diciembre de 2021].
 
-Hibridació de energies renovables
+**Hibridació de energies renovables**
 
 MOSQUERA, Pepa (2021). Hibridar renovables, una muy buena opción para el sistema eléctrico. [en línea]. https://www.energias-renovables.com/panorama/eidf-resulta-adjudicataria-de-las-instalaciones-solares-20210416-1 [fecha de consulta: 9 de diciembre de 2021].
 
